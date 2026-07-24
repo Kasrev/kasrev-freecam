@@ -1,3 +1,5 @@
+
+
 # Freecam Photo
 
 Premium freecam script for FiveM — hold V to activate, take cinematic screenshots.
