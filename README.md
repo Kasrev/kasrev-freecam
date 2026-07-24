@@ -3,7 +3,7 @@
 
 # Freecam Photo
 
-Premium freecam script for FiveM — hold V to activate, take cinematic screenshots.
+Freecam script for FiveM — hold V to activate, take cinematic screenshots.
 
 ## Features
 
@@ -32,7 +32,7 @@ Premium freecam script for FiveM — hold V to activate, take cinematic screensh
 
 ## Installation
 
-1. Copy `freecam-photo` to your server's `resources` folder
+1. Copy `kasrev-freecam` to your server's `resources` folder
 2. Add to `server.cfg`:
 
 ```
@@ -56,7 +56,7 @@ Config.CameraTransition  = 500         -- Camera fade time (ms)
 ## Files
 
 ```
-freecam-photo/
+kasrev-freecam/
 ├── fxmanifest.lua
 ├── config.lua
 ├── client.lua
