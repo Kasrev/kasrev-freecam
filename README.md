@@ -1,10 +1,9 @@
 <img width="1920" height="1080" alt="FREECAM" src="https://github.com/user-attachments/assets/e447321e-fc33-41a9-8317-c0c2d611edc4" />
 
 
+# 📸 Freecam Photo
 
-# Freecam Photo
-
-Freecam script for FiveM — hold V to activate, take cinematic screenshots.
+ Freecam script for FiveM — hold V to activate, take cinematic screenshots.
 
 ## Features
 
